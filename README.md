@@ -1,2 +1,2 @@
-# dunso.github.io
+# dunso
 Dunso's Blog
